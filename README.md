@@ -1,6 +1,6 @@
-# flutter_application_1
+# BMI 
 
-A new Flutter project.
+A flutter application to evaluate body mass index (BMI).
 
 ## Getting Started
 
